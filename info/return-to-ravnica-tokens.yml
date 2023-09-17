@@ -1,0 +1,18 @@
+---
+object: set
+id: 56289aec-fc72-4bc1-ad67-fac850de5b4e
+code: trtr
+name: Return to Ravnica Tokens
+uri: https://api.scryfall.com/sets/56289aec-fc72-4bc1-ad67-fac850de5b4e
+scryfall_uri: https://scryfall.com/sets/trtr
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrtr&unique=prints
+released_at: '2012-10-05'
+set_type: token
+card_count: 12
+parent_set_code: rtr
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: rtr
+block: Return to Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/rtr.svg?1694404800

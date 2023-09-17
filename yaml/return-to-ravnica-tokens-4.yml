@@ -1,0 +1,119 @@
+---
+object: card
+id: 89eb9f92-d189-4438-b6fe-cb253055d63e
+oracle_id: d32c3005-d2d9-4863-a4f3-2301b854230c
+multiverse_ids: []
+tcgplayer_id: 78479
+name: Assassin
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/89eb9f92-d189-4438-b6fe-cb253055d63e
+scryfall_uri: https://scryfall.com/card/trtr/4/assassin?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.jpg?1562539812
+  normal: https://cards.scryfall.io/normal/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.jpg?1562539812
+  large: https://cards.scryfall.io/large/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.jpg?1562539812
+  png: https://cards.scryfall.io/png/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.png?1562539812
+  art_crop: https://cards.scryfall.io/art_crop/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.jpg?1562539812
+  border_crop: https://cards.scryfall.io/border_crop/front/8/9/89eb9f92-d189-4438-b6fe-cb253055d63e.jpg?1562539812
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Assassin
+oracle_text: Whenever this creature deals combat damage to a player, that player loses
+  the game.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: 8971938c-cd26-4b83-96d7-1408cd0b0de6
+  component: combo_piece
+  name: Vraska the Unseen
+  type_line: Legendary Planeswalker — Vraska
+  uri: https://api.scryfall.com/cards/8971938c-cd26-4b83-96d7-1408cd0b0de6
+- object: related_card
+  id: 89eb9f92-d189-4438-b6fe-cb253055d63e
+  component: token
+  name: Assassin
+  type_line: Token Creature — Assassin
+  uri: https://api.scryfall.com/cards/89eb9f92-d189-4438-b6fe-cb253055d63e
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 56289aec-fc72-4bc1-ad67-fac850de5b4e
+set: trtr
+set_name: Return to Ravnica Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/56289aec-fc72-4bc1-ad67-fac850de5b4e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atrtr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/trtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/89eb9f92-d189-4438-b6fe-cb253055d63e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad32c3005-d2d9-4863-a4f3-2301b854230c&unique=prints
+collector_number: '4'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: 89a9687a-9387-410c-a386-67666dffef28
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.48'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Assassin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Assassin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Assassin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78479?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Assassin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Assassin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

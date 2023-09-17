@@ -1,0 +1,122 @@
+---
+object: card
+id: b64c5f80-4676-4860-be0e-20bcf2227405
+oracle_id: 3edbadbb-2efb-43a9-aad5-8d1019d1ab6e
+multiverse_ids: []
+tcgplayer_id: 78483
+name: Elemental
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/b64c5f80-4676-4860-be0e-20bcf2227405
+scryfall_uri: https://scryfall.com/card/trtr/12/elemental?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.jpg?1562540215
+  normal: https://cards.scryfall.io/normal/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.jpg?1562540215
+  large: https://cards.scryfall.io/large/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.jpg?1562540215
+  png: https://cards.scryfall.io/png/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.png?1562540215
+  art_crop: https://cards.scryfall.io/art_crop/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.jpg?1562540215
+  border_crop: https://cards.scryfall.io/border_crop/front/b/6/b64c5f80-4676-4860-be0e-20bcf2227405.jpg?1562540215
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Elemental
+oracle_text: Vigilance
+power: '8'
+toughness: '8'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords:
+- Vigilance
+all_parts:
+- object: related_card
+  id: b64c5f80-4676-4860-be0e-20bcf2227405
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/b64c5f80-4676-4860-be0e-20bcf2227405
+- object: related_card
+  id: 3cf60ca0-e01f-499c-8d04-d59050f38c33
+  component: combo_piece
+  name: Grove of the Guardian
+  type_line: Land
+  uri: https://api.scryfall.com/cards/3cf60ca0-e01f-499c-8d04-d59050f38c33
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 56289aec-fc72-4bc1-ad67-fac850de5b4e
+set: trtr
+set_name: Return to Ravnica Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/56289aec-fc72-4bc1-ad67-fac850de5b4e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atrtr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/trtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b64c5f80-4676-4860-be0e-20bcf2227405/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3edbadbb-2efb-43a9-aad5-8d1019d1ab6e&unique=prints
+collector_number: '12'
+digital: false
+rarity: common
+watermark: selesnya
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yeong-Hao Han
+artist_ids:
+- f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e
+illustration_id: 4bfecddd-4601-4415-ba30-24c564d5a68e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.35'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78483?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

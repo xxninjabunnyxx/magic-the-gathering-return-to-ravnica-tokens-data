@@ -1,0 +1,160 @@
+---
+object: card
+id: 880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2
+oracle_id: c41ea1cd-d87a-4e4c-b814-4c24c5bef511
+multiverse_ids: []
+tcgplayer_id: 78481
+name: Centaur
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2
+scryfall_uri: https://scryfall.com/card/trtr/7/centaur?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.jpg?1562539811
+  normal: https://cards.scryfall.io/normal/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.jpg?1562539811
+  large: https://cards.scryfall.io/large/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.jpg?1562539811
+  png: https://cards.scryfall.io/png/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.png?1562539811
+  art_crop: https://cards.scryfall.io/art_crop/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.jpg?1562539811
+  border_crop: https://cards.scryfall.io/border_crop/front/8/8/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2.jpg?1562539811
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Centaur
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: f027ceb0-5d2b-4cf6-87ad-e6b9b1e20634
+  component: combo_piece
+  name: Coursers' Accord
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/f027ceb0-5d2b-4cf6-87ad-e6b9b1e20634
+- object: related_card
+  id: 9acab31b-2703-45b0-8bae-f3a4561f2648
+  component: combo_piece
+  name: Centaur Glade
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/9acab31b-2703-45b0-8bae-f3a4561f2648
+- object: related_card
+  id: db84415e-048a-4cfc-9121-5ae17a412198
+  component: combo_piece
+  name: Alive // Well
+  type_line: Sorcery // Sorcery
+  uri: https://api.scryfall.com/cards/db84415e-048a-4cfc-9121-5ae17a412198
+- object: related_card
+  id: e768b0f4-ba5f-4d1a-b68a-1274d761de90
+  component: combo_piece
+  name: Rampage of the Clans
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/e768b0f4-ba5f-4d1a-b68a-1274d761de90
+- object: related_card
+  id: eda757a0-067b-4eb9-badc-d86da5b40305
+  component: combo_piece
+  name: Trostani's Summoner
+  type_line: Creature — Elf Shaman
+  uri: https://api.scryfall.com/cards/eda757a0-067b-4eb9-badc-d86da5b40305
+- object: related_card
+  id: '08598b2b-6fd2-4a1d-8d74-7ca6d93ad382'
+  component: combo_piece
+  name: Centaur's Herald
+  type_line: Creature — Elf Scout
+  uri: https://api.scryfall.com/cards/08598b2b-6fd2-4a1d-8d74-7ca6d93ad382
+- object: related_card
+  id: 880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2
+  component: token
+  name: Centaur
+  type_line: Token Creature — Centaur
+  uri: https://api.scryfall.com/cards/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2
+- object: related_card
+  id: e54f8e61-550f-4493-b8ba-65f81b2457d3
+  component: combo_piece
+  name: Vitu-Ghazi Guildmage
+  type_line: Creature — Dryad Shaman
+  uri: https://api.scryfall.com/cards/e54f8e61-550f-4493-b8ba-65f81b2457d3
+- object: related_card
+  id: c6df8f4d-a07a-4664-878d-efec8b2affb9
+  component: combo_piece
+  name: Call of the Conclave
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/c6df8f4d-a07a-4664-878d-efec8b2affb9
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 56289aec-fc72-4bc1-ad67-fac850de5b4e
+set: trtr
+set_name: Return to Ravnica Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/56289aec-fc72-4bc1-ad67-fac850de5b4e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atrtr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/trtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/880d5dc1-ceec-4c5f-93c2-c88b7dbfcac2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac41ea1cd-d87a-4e4c-b814-4c24c5bef511&unique=prints
+collector_number: '7'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 0ebb8410-46dc-4dc8-acc3-a6082e765b13
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.07'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Centaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Centaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Centaur
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78481?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Centaur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Centaur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
